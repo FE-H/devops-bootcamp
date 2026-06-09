@@ -1,0 +1,5 @@
+{
+    "UserId": "AIDATXZ5MZ7V6PONFXKJO",
+    "Account": "257289932779",
+    "Arn": "arn:aws:iam::257289932779:user/feh-cli"
+}
