@@ -1,0 +1,5 @@
+>>Cloudflare tunnel product - cloudflared requires credit card
+>>Setup EC2 instance and associate ElasticIP without gateway on public subnet
+>>Connect EC2 instance to Cloudflare using a different subdomain & proxy the EC2 instance
+>>Use CLI on Ubuntu terminal to create new AWS EC2 resource, NAT Gateway, ElasticIP association
+>>Tunnel the created EC2 resource via Cloudflared
