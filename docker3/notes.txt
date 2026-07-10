@@ -1,0 +1,10 @@
+257289932779.dkr.ecr.ap-southeast-1.amazonaws.com
+
+NETWORK ID     NAME      DRIVER    SCOPE
+0ba647fb58be   arena     bridge    local
+d350ec0a3b64   bridge    bridge    local
+fb1c503f7474   host      host      local
+d243a9772f0d   none      null      local
+
+DRIVER    VOLUME NAME
+local     me
