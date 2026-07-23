@@ -1,0 +1,1 @@
+>> how to use stage gates to ensure the build flow is setup correctly and prevent merge

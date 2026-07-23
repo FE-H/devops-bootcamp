@@ -1,0 +1,1 @@
+>> how to setup selfhosted github actions runner and setup the cicd flow to automatically setup the runner to deploy on the self-hosted runner
